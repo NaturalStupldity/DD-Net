@@ -38,7 +38,7 @@ SHREC-14 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 
 ```
 JHMDB raw data download link:   http://jhmdb.is.tue.mpg.de/challenge/JHMDB/datasets
-SHREC raw data download link:   http://www-rech.telecom-lille.fr/shrec2017-hand/
+SHREC raw data download link:   https://shapenet.cs.stanford.edu/shrec17/
 ```
 
 ## Usage
